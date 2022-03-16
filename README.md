@@ -1,6 +1,6 @@
 Checkpoint-1 Machine Learning
 
-Victor Rubem C. Campos/
+Victor Rubem C. Campos /
 Amanda Fernandes
 
 Turma: 2TDSJ
