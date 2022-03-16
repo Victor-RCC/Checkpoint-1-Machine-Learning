@@ -1,5 +1,4 @@
-
-#Checkpoint-1 Machine Learning
+##Checkpoint-1 Machine Learning
 
 Victor Rubem C. Campos
 Amanda Fernandes
